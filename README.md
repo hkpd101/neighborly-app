@@ -25,6 +25,16 @@ Neighborly is a mobile-first web application that helps neighbors connect, share
 ![Groups](./screenshots/groups.png)
 
 ## Tech Stack
+
+## App Assets
+
+Screenshots from the app (located in the `Assests/` folder):
+
+![Screenshot 1](./Assests/Screenshot%20from%202025-08-13%2022-47-11.png)
+![Screenshot 2](./Assests/Screenshot%20from%202025-08-13%2022-47-20.png)
+![Screenshot 3](./Assests/Screenshot%20from%202025-08-13%2022-47-25.png)
+![Screenshot 4](./Assests/Screenshot%20from%202025-08-13%2022-47-33.png)
+
 - React + TypeScript
 - Vite
 - Tailwind CSS
